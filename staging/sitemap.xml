@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Main Pages -->
+  <url>
+    <loc>https://currentcravings.co.uk/</loc>
+  </url>
+  <url>
+    <loc>https://currentcravings.co.uk/menu</loc>
+  </url>
+  <url>
+    <loc>https://currentcravings.co.uk/about</loc>
+  </url>
+  <url>
+    <loc>https://currentcravings.co.uk/contact</loc>
+  </url>
+
+  <!-- Policy / Info Pages -->
+  <url>
+    <loc>https://currentcravings.co.uk/allergen-Information</loc>
+  </url>
+  <url>
+    <loc>https://currentcravings.co.uk/delivery-and-shipping</loc>
+  </url>
+  <url>
+    <loc>https://currentcravings.co.uk/privacy-policy</loc>
+  </url>
+  <url>
+    <loc>https://currentcravings.co.uk/terms-of-service</loc>
+  </url>
+  <url>
+    <loc>https://currentcravings.co.uk/refund-policy</loc>
+  </url>
+
+  <!-- Blog Posts -->
+  <url>
+    <loc>https://currentcravings.co.uk/blog</loc>
+  </url>
+  <url>
+    <loc>https://currentcravings.co.uk/blog/what-is-the-best-recipe-for-chocolate-brownies</loc>
+  </url>
+  <url>
+    <loc>https://currentcravings.co.uk/blog/how-long-do-homemade-brownies-last</loc>
+  </url>
+    <url>
+    <loc>https://currentcravings.co.uk/blog/current-cravings-menu-guide</loc>
+  </url>
+
+
+  <!-- Cookies -->
+ <url>
+    <loc>https://currentcravings.co.uk/cookies</loc>
+  </url>
+  <url>
+    <loc>https://currentcravings.co.uk/cookies/classic-choc-chip-cookie</loc>
+  </url>
+  <url>
+    <loc>https://currentcravings.co.uk/cookies/brown-butter-cookie</loc>
+  </url>
+  <url>
+    <loc>https://currentcravings.co.uk/cookies/double-choc-cookie</loc>
+  </url>
+  <url>
+    <loc>https://currentcravings.co.uk/cookies/white-choc-cookie</loc>
+  </url>
+  <url>
+    <loc>https://currentcravings.co.uk/cookies/mnms-cookie</loc>
+  </url>
+  <url>
+    <loc>https://currentcravings.co.uk/cookies/lotus-cookie</loc>
+  </url>
+  <url>
+    <loc>https://currentcravings.co.uk/cookies/oreo-cookie</loc>
+  </url>
+  <url>
+    <loc>https://currentcravings.co.uk/cookies/salted-caramel-cookie</loc>
+  </url>
+  <url>
+    <loc>https://currentcravings.co.uk/cookies/s-mores-cookie</loc>
+  </url>
+
+  <!-- Brownies -->
+  <url>
+    <loc>https://currentcravings.co.uk/brownies</loc>
+  </url>
+  <url>
+    <loc>https://currentcravings.co.uk/brownies/kunafa-brownie</loc>
+  </url>
+  <url>
+    <loc>https://currentcravings.co.uk/brownies/classic-brownie</loc>
+  </url>
+  <url>
+    <loc>https://currentcravings.co.uk/brownies/biscoff-brownie</loc>
+  </url>
+  <url>
+    <loc>https://currentcravings.co.uk/brownies/oreo-brownie</loc>
+  </url>
+  <url>
+    <loc>https://currentcravings.co.uk/brownies/double-choc-brownie</loc>
+  </url>
+  <url>
+    <loc>https://currentcravings.co.uk/brownies/salted-caramel-brownie</loc>
+  </url>
+  <url>
+    <loc>https://currentcravings.co.uk/brownies/mnms-brownie</loc>
+  </url>
+  <url>
+    <loc>https://currentcravings.co.uk/brownies/white-chocolate-brownie</loc>
+  </url>
+
+  <!-- Tres Leches -->
+<url>
+    <loc>https://currentcravings.co.uk/tres-leches</loc>
+  </url>
+  <url>
+    <loc>https://currentcravings.co.uk/tres-leches/kunafa-tres-leches</loc>
+  </url>
+  <url>
+    <loc>https://currentcravings.co.uk/tres-leches/strawberry-tres-leches</loc>
+  </url>
+  <url>
+    <loc>https://currentcravings.co.uk/tres-leches/saffron-and-rose-tres-leches</loc>
+  </url>
+  <url>
+    <loc>https://currentcravings.co.uk/tres-leches/pistachio-and-white-chocolate-tres-leches</loc>
+  </url>
+  <url>
+    <loc>https://currentcravings.co.uk/tres-leches/mocha-chocolate-tres-leches</loc>
+  </url>
+  <url>
+    <loc>https://currentcravings.co.uk/tres-leches/lotus-tres-leches</loc>
+  </url>
+  <url>
+    <loc>https://currentcravings.co.uk/tres-leches/classic-caramel-tres-leches</loc>
+  </url>
+
+  <!-- Drinks -->
+  <url>
+    <loc>https://currentcravings.co.uk/drinks</loc>
+  </url>
+  <url>
+    <loc>https://currentcravings.co.uk/drinks/mango-iced-matcha</loc>
+  </url>
+  <url>
+    <loc>https://currentcravings.co.uk/drinks/mango-limka</loc>
+  </url>
+  <url>
+    <loc>https://currentcravings.co.uk/drinks/summer-berry-chiller</loc>
+  </url>
+  <url>
+    <loc>https://currentcravings.co.uk/drinks/iced-vanilla-matcha</loc>
+  </url>
+  <url>
+    <loc>https://currentcravings.co.uk/drinks/french-vanilla-latte</loc>
+  </url>
+  <url>
+    <loc>https://currentcravings.co.uk/drinks/iced-strawberry-matcha</loc>
+  </url>
+
+  <!-- Box -->
+  <url>
+    <loc>https://currentcravings.co.uk/boxes</loc>
+  </url>
+  <url>
+    <loc>https://currentcravings.co.uk/boxes/craving-cookies-box-of-6</loc>
+  </url>
+  <url>
+    <loc>https://currentcravings.co.uk/boxes/craving-cookies-box-of-4</loc>
+  </url>
+  <url>
+    <loc>https://currentcravings.co.uk/boxes/craving-brownies-box-of-6</loc>
+  </url>
+  <url>
+    <loc>https://currentcravings.co.uk/boxes/craving-brownies-box-of-4</loc>
+  </url>
+
+</urlset>
